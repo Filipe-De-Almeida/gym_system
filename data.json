@@ -1,0 +1,22 @@
+{
+  "instructors": [
+    {
+      "avatar_url": "http://google.com",
+      "birth": -99100800000,
+      "name": "Adriana Lima",
+      "id": 1,
+      "gender": "F",
+      "services": "Crossfit",
+      "created_at": 1620812553107
+    },
+    {
+      "id": 2,
+      "avatar_url": "http://google.com",
+      "name": "Filipe Almeida",
+      "birth": 951177600000,
+      "gender": "M",
+      "services": "Crossfit",
+      "created_at": 1620812637029
+    }
+  ]
+}
